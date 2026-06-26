@@ -1,0 +1,22 @@
+/customer/1042
+/customer?city=bangalore&risk=high
+
+/customer/1042
+/customer/1045
+
+{}
+where to use
+PATH
+1 specific thing
+
+query
+filtering,sorting,customize
+
+/
+limit:int = 10 set 
+
+25 year
+999999999 income
+
+correct - also set the range
+10000 - 1lakh
